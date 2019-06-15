@@ -1,6 +1,8 @@
 # dahlia-environment
 installs packages needed to build dahlia assets
 
+`python3 install-(OS).py
+
 ## Includes
 
 * Android Studio
